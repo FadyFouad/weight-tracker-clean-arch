@@ -11,7 +11,7 @@ This app is built using the Clean Architecture design pattern, utilizing the fol
 - SQFlite for local storage of weight entries when no Internet Connection.
 
 
-If you have any questions or feedback, please contact us at [insert contact information].
+If you have any questions or feedback, please contact us at [fady.fouad.a@gmail.com](fady.fouad.a@gmail.com).
 
 
 ![alt text](https://github.com/FadyFouad/weight_tracker_task/blob/main/screenshots/1.jpeg?raw=true)
