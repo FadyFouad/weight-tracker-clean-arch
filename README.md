@@ -1,4 +1,4 @@
-# weight_tracker_task
+# Weight Tracker Demo
 
 # Clean architecture 
 Riverpod approaches & Bloc $ Sqflite $ getit
